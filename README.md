@@ -17,7 +17,7 @@ too.
 1. Download The Project Zipped Folder.
 2. Unzip the Folder.
 3. Unzip the other folders in the unzipped folder (css.zip, js.zip, fonts.zip, image.zip).
-4. Go to the xammp control panel(if it's not installed then install it from [https://www.apachefriends.org/download.html]).
+4. Go to the xammp control panel (if it's not installed then install it from [https://www.apachefriends.org/download.html]).
 5. Start Apache and Mysql.
 6. Go to the browser and type localhost/phpmyadmin in the search bar.
 7. Create a new database named project.
